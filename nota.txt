@@ -1,0 +1,15 @@
+El archivo de tipo proyecto se encuentra en la direccion Project1/Project1/Project1.vcxproj
+
+Para poder hacer uso de las imagenes desde el proyecto o desde
+el archivo ejecutable es necesario copiar el folder
+/cards en la particion C: de la computadora ( C:/cards/ )
+
+El programa y sus dependencias son completamente funcionales.
+
+---
+
+The project files are located in Project1/Project1/Project1.vcxproj 
+
+In order to use the project images from the executable file, it is necessary to copy the folder /cards to C:/ ( C:/cards/ )
+
+The program and its dependencies are completely functional.  
